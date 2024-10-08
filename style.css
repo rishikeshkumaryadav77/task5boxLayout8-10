@@ -1,0 +1,56 @@
+.bg-container{
+  width: 290px;
+  border: 2px solid brown;
+  padding: 10px;
+}
+
+.container-1{
+  height: 100px;
+  width: 250px;
+  border: 1px solid black;
+  margin: 10px;
+}
+
+.circle{
+  height: 80px;
+  width: 80px;
+  border-radius: 10px;
+  margin: 10px;
+  margin-right: 80px;
+  display: inline-block;
+  border-radius: 70px;
+  border: 1px solid;
+}
+
+.logo{
+  display: inline-block;
+  margin-bottom: 40px;
+}
+.logo1{
+  border:1px solid;
+  width: 30px;
+  margin: 5px;
+  
+}
+
+.main{
+  height: 80px;
+  width: 250px;
+  border: 1px solid;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  margin: 10px;
+}
+
+.footer{
+  height: 20px;
+  width: 250px;
+  border: 1px solid;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  margin: 10px;
+}
